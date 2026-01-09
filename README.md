@@ -1,2 +1,3 @@
 # model-rating-ranking-list
-最全AI模型评分排行网站收藏
+[AI工具目录](https://aigjml.com/)最全AI模型评分排行网站收藏
+
