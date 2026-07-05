@@ -1,6 +1,6 @@
+### 最佳AI工具收藏清单
 [小目录](https://xiaomulu.com/)最佳AI工具收藏
 
-### 最佳AI工具收藏清单
 [模型评分排行榜](./model_rating_ranking_list.md)
 
 [最佳AI聊天助手收藏](./ai_chat_assistants_list.md)
